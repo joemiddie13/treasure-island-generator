@@ -10,7 +10,7 @@
 | **📝 Docs**       | `README` includes instructions on how to build and run your container                               |   ✅   |
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196803-a9a7c7e5e5c1a8b0a1f5e9c1)
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fstats.uptimerobot.com%2Fsvlcuvffwe&label=Website%20Status)](https://stats.uptimerobot.com/svlCuvffWe)
 
 ## How to Build and Run the Container
 
